@@ -3,6 +3,14 @@
 
 Read and parse exported windows registry text files
 
+## Install
+
+Install using pip:
+
+```
+pip install regparse
+```
+
 ## Usage
 
 Typical usage:
